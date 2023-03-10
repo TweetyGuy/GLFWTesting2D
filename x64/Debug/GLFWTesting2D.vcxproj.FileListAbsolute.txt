@@ -1,0 +1,2 @@
+C:\dev\GLFWTesting2D\x64\Debug\GLFWTesting2D.exe
+C:\Users\ksart\OneDrive\Documents\GitHub\GLFWTesting2D\x64\Debug\GLFWTesting2D.exe
